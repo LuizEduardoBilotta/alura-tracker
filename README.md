@@ -19,14 +19,10 @@
 
 ## :game_die: Status
 <p align="center">
-  <img src="https://img.shields.io/github/repo-size/LuizEduardoBilotta/
-alura-tracker?style=for-the-badge" alt="Repository size">
-  <img src="https://img.shields.io/github/license/LuizEduardoBilotta/
-alura-tracker?style=for-the-badge" alt="License">
-  <img src="https://img.shields.io/github/languages/count/LuizEduardoBilotta/
-alura-tracker?style=for-the-badge&color=eb152a" alt="Counter Languages">
-  <img src="https://img.shields.io/github/last-commit/LuizEduardoBilotta/
-alura-tracker?style=for-the-badge&color=f50cbb" alt="Last commit">
+  <img src="https://img.shields.io/github/repo-size/LuizEduardoBilotta/alura-tracker?style=for-the-badge" alt="Repository size">
+  <img src="https://img.shields.io/github/license/LuizEduardoBilotta/alura-tracker?style=for-the-badge" alt="License">
+  <img src="https://img.shields.io/github/languages/count/LuizEduardoBilotta/alura-tracker?style=for-the-badge&color=eb152a" alt="Counter Languages">
+  <img src="https://img.shields.io/github/last-commit/LuizEduardoBilotta/alura-tracker?style=for-the-badge&color=f50cbb" alt="Last commit">
 </p>
 
 ## :framed_picture: Layout
