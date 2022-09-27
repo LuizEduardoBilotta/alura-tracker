@@ -4,7 +4,7 @@
 
 <h2 align="center">:clock130: Alura Tracker</h2>
 <p> 
-  O <strong>Alura Tracker</strong> é uma aplicação Web com a finalidade de registrar o tempo gasto em cada atividade que realizada, de modo que você possa analisar sua produtividade.
+  O <strong>Alura Tracker</strong> é uma aplicação Web com a finalidade de registrar o tempo gasto em cada atividade realizada, de modo que você possa analisar sua produtividade.
   
   O Projeto foi desenvolvido durante o curso <strong>Vue3: explorando o framework</strong> da [Alura](https://alura.com.br/).
 </p>
@@ -16,6 +16,7 @@
 - [Pré-Requisitos](#pre-requisitos)
 - [Executando o projeto](#executando-o-projeto)
 - [Licença](#licença)
+- [Contato](#contato)
 
 ## :game_die: Status
 <p align="center">
@@ -62,6 +63,8 @@ $ npm install
 ```sh
 $ npm run serve
 ```
+
+4. *Acesse o endereço `localhost:8080` em seu navegador.*
 
 ## :bookmark_tabs: Licença
 Este projeto está licenciado nos termos da licença MIT. Veja o arquivo [LICENSE](./LICENSE) para mais detalhes.
